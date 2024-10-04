@@ -15,20 +15,6 @@ public class Main {
 
     System.out.println("ümumi şagird sayı: " + c);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        ;
+        // some comment
     }
 }
